@@ -1,2 +1,2 @@
-# siakad
+# Siakad
 Sistem Informasi Sekolah
